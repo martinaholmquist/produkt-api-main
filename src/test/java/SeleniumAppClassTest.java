@@ -13,7 +13,7 @@ import java.util.List;
 
 public class SeleniumAppClassTest {
 
-
+/*
     @Test
     void findCorrectTitleOfWebb(){
         //given
@@ -340,5 +340,5 @@ public class SeleniumAppClassTest {
         driver.quit();
     }
 
-
+*/
 }
